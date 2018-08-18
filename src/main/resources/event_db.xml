@@ -1,0 +1,7 @@
+<calendar>
+    <!--to są elementy, które mogą mieć atrybuty, np.: date i wartości, np.: Nazwa wydarzenia A-->
+    <event date="16062018 13:49">Nazwa wydarzenia A</event>
+    <event date="23112017 12:21">Nazwa wydarzenia B</event>
+
+
+</calendar>
